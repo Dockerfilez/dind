@@ -1,4 +1,4 @@
-FROM dind:latest
+FROM docker:dind
 
 ENV REGISTRY=registry.bestplayers.ru
 
